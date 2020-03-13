@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39b2e291-a091-461c-9422-8a14dc83958d" name="Default Changelist" comment="" />
+    <list default="true" id="39b2e291-a091-461c-9422-8a14dc83958d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Type_Exercise_1.elm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elm-stuff/0.19.1/TypeAnnotation1.elmi" beforeDir="false" afterPath="$PROJECT_DIR$/elm-stuff/0.19.1/TypeAnnotation1.elmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elm-stuff/0.19.1/TypeAnnotation1.elmo" beforeDir="false" afterPath="$PROJECT_DIR$/elm-stuff/0.19.1/TypeAnnotation1.elmo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elm-stuff/0.19.1/d.dat" beforeDir="false" afterPath="$PROJECT_DIR$/elm-stuff/0.19.1/d.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TypeAnnotation2.elm" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypeAnnotation2.elm" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,12 +33,16 @@
       <replace />
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsbtTreeLayoutManager">
     <layout place="tools.popupGrunt">
       <scroll-view-position x="0" y="0" />
     </layout>
   </component>
   <component name="ProjectId" id="1Z1r5yZXWU4UfbmleP1hOBD3Y8w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -38,8 +50,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/elm.json" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -51,10 +64,10 @@
     <property name="settings.editor.selected.configurable" value="org.elm.workspace.ui.ElmWorkspaceConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
@@ -87,7 +100,7 @@
       <workItem from="1583840758341" duration="1722000" />
       <workItem from="1584017265884" duration="160000" />
       <workItem from="1584017471614" duration="546000" />
-      <workItem from="1584019758423" duration="11620000" />
+      <workItem from="1584019758423" duration="13297000" />
     </task>
     <servers />
   </component>
@@ -107,9 +120,9 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1795" y="584" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.2560.1440@0.0.2560.1440" timestamp="1584056343745" />
-    <state x="1585" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1584055449058">
+    <state x="1585" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1584061412849">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="1585" y="331" width="670" height="676" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1584055449058" />
+    <state x="1585" y="331" width="670" height="676" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1584061412849" />
   </component>
 </project>
