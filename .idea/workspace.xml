@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39b2e291-a091-461c-9422-8a14dc83958d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Type_Exercise_1.elm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalorieCounter_1.elm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalorieCounter_sol.elm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Type_Exercise_1_revisit.elm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elm-stuff/0.19.1/TypeAnnotation1.elmi" beforeDir="false" afterPath="$PROJECT_DIR$/elm-stuff/0.19.1/TypeAnnotation1.elmi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elm-stuff/0.19.1/TypeAnnotation1.elmo" beforeDir="false" afterPath="$PROJECT_DIR$/elm-stuff/0.19.1/TypeAnnotation1.elmo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/elm-stuff/0.19.1/d.dat" beforeDir="false" afterPath="$PROJECT_DIR$/elm-stuff/0.19.1/d.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TypeAnnotation2.elm" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypeAnnotation2.elm" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +98,8 @@
       <workItem from="1583840758341" duration="1722000" />
       <workItem from="1584017265884" duration="160000" />
       <workItem from="1584017471614" duration="546000" />
-      <workItem from="1584019758423" duration="13297000" />
+      <workItem from="1584019758423" duration="13922000" />
+      <workItem from="1584139967384" duration="3828000" />
     </task>
     <servers />
   </component>
@@ -116,13 +115,13 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1429" y="359" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1584019615166" />
-    <state x="1795" y="584" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1584056343745">
+    <state x="1795" y="584" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1584143960429">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="1795" y="584" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.2560.1440@0.0.2560.1440" timestamp="1584056343745" />
-    <state x="1585" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1584061412849">
+    <state x="1795" y="584" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.2560.1440@0.0.2560.1440" timestamp="1584143960429" />
+    <state x="1585" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1584140824135">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="1585" y="331" width="670" height="676" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1584061412849" />
+    <state x="1585" y="331" width="670" height="676" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1584140824135" />
   </component>
 </project>
