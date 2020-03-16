@@ -1,6 +1,7 @@
 module CalorieCounter_sol exposing (..)
 
 import Browser
+import Debug exposing (..)
 import Html exposing (..)
 import Html.Attributes exposing (..)
 import Html.Events exposing (..)
@@ -54,7 +55,7 @@ update msg model =
 view : Model -> Html Msg
 view model =
     div []
-        [ h3 [] [ text ("Total Calories : " ++ String.fromInt model.calories) ]
+        [ h3 [] [ text ("Total Calories : " ++ toString model.calories) ]
         , input
             [ type_ "text"
             , onInput Input
