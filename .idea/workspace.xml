@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39b2e291-a091-461c-9422-8a14dc83958d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Debug_1.elm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CalorieCounter_sol.elm" beforeDir="false" afterPath="$PROJECT_DIR$/src/CalorieCounter_sol.elm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ScoreKeeper_fin.elm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise4.elm" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise4.elm" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +98,7 @@
       <workItem from="1584019758423" duration="13922000" />
       <workItem from="1584139967384" duration="4280000" />
       <workItem from="1584400733462" duration="537000" />
+      <workItem from="1584409684975" duration="25000" />
     </task>
     <servers />
   </component>

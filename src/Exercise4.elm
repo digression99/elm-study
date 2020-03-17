@@ -26,7 +26,11 @@ wordCount =
 
 
 main =
-    "Here is a test sentence"
-        |> wordCount
-        |> String.fromInt
-        |> Html.text
+    Html.text "HAHA!!!"
+
+
+
+-- "Here is a test sentence"
+--     |> wordCount
+--     |> String.fromInt
+--     |> Html.text
